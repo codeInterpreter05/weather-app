@@ -16,10 +16,10 @@ body{
 
 .card{
     width: 90%;
-    max-width: 550px;
+    max-width: 600px;
     background: linear-gradient(135deg, #00FEBA, #5B548A);
     color: #FFFFFF;
-    margin: 50px auto 0;
+    margin: auto 0;
     border-radius: 20px;
     padding: 40px 35px;
     text-align: center;
@@ -69,10 +69,14 @@ button > img {
     font-weight: 500;
 }
 
+.weather h3{
+    font-size: 24px;
+    font-weight: 300;
+}
+
 .weather h2{
-    font-size: 45px;
+    font-size: 55px;
     font-weight: 400;
-    margin-top: -10px;
 }
 
 .details{
